@@ -4,7 +4,8 @@ This repository is a resource that allows us to distribute scripts using TeamVie
 
 Link to where to add scripts in TeamViewer: [Here](https://login.teamviewer.com/nav/scripts)
 
-## tv-chrm-ffox-offce.sh
+## TV Scripts
+### tv-chrm-ffox-offce.sh
 #### Install Chrome, Firefox & Full Office - Intel Macs
 This script is designed to one click install/update Chrome, Firefox & Full Office to a Mac over Teamviewer.
 ##### Operating System
