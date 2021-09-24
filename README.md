@@ -4,7 +4,7 @@ This repository is a resource that allows us to distribute scripts using TeamVie
 
 ## tv-chrm-ffox-offce.sh
 #### Install Chrome, Firefox & Full Office - Intel Macs
-This script is designed to silently install/update Chrome, Firefox & Full Office to a Mac over Teamviewer.
+This script is designed to one click install/update Chrome, Firefox & Full Office to a Mac over Teamviewer.
 ##### Operating System
 `macOS`
 ##### Script Type
