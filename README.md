@@ -15,4 +15,4 @@ This script is designed to one click install/update Chrome, Firefox & Full Offic
 ##### Execution
 `Tick: Run as administrator`
 ##### Command to add to TV management console:
-`sudo curl -o /tmp/tv-chrm-ffox-offce.sh https://raw.githubusercontent.com/PurpleComputing/tvscripts/main/tv-chrm-ffox-offce.sh && sudo chmod /tmp/tv-chrm-ffox-offce.sh && sudo /tmp/tv-chrm-ffox-offce.sh`
+`sudo curl -o /tmp/tv-chrm-ffox-offce.sh https://raw.githubusercontent.com/PurpleComputing/tvscripts/main/tv-chrm-ffox-offce.sh && sudo chmod +x /tmp/tv-chrm-ffox-offce.sh && sudo /tmp/tv-chrm-ffox-offce.sh`
